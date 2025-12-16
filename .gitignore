@@ -1,0 +1,21 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# PDF output (uncomment if you don't want to track PDFs)
+# *.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*~
